@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit bfd337dd492167811590b7cfbd57349564361ef9
+> يا نور عيني في سكون الليل
+> قلبي ينادي من وراء الويل
+> نار الغرام تحرقني بلا دليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
