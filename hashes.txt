@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Al Dunya Helwa
+
+This log tracks the cryptographic history and versioning for the song **Al Dunya Helwa** (al-dunya-helwa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:34:50.473303 | `v1` | `a4c1b2712e2a83e1c673619f1f388a421fb149457bc65a4493cd2701cb3a7774` | `74c0c24aeaffd5345a9f8374ead30b90031cda0e9acb7a4a6dff11c0c4fc0436` | `2026-05-09_al-dunya-helwa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
